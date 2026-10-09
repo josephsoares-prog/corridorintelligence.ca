@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Live but unlinked and hidden until the CIPO trademark filing (ruled 2026-10-09). At announcement: remove Disallow and the noindex tags.
